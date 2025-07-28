@@ -1,0 +1,21 @@
+{
+  "name": "1inch-api-test",
+  "version": "1.0.0",
+  "description": "Testing 1inch API on Sepolia testnet",
+  "main": "test-1inch-live.js",
+  "scripts": {
+    "test": "node test-1inch-live.js",
+    "start": "node test-1inch-live.js",
+    "app": "node 1inch-trading-app.js",
+    "backend": "node backend-server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ethers": "^5.7.2",
+    "express": "^5.1.0",
+    "node-fetch": "^2.6.7"
+  },
+  "type": "commonjs",
+  "author": "",
+  "license": "MIT"
+}

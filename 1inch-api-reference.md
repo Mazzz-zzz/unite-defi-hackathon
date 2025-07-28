@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document provides comprehensive API reference with practical examples for integrating with 1inch protocols. All examples use real-world scenarios and include error handling.
+This document provides comprehensive API reference with practical examples for integra ting with 1inch protocols. All examples use real-world scenarios and include error handling.
 
 ## Authentication
 
